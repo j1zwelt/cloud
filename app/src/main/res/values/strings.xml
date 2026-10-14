@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cloud</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="log_in_to_your_profile">Log in to your profile</string>
+    <string name="repeat_password">Password (repeat)</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="create_new_profile">Create new profile</string>
+    <string name="this_username_is_already_taken_by_another_user">This username is already taken by another user</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+</resources>
